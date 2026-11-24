@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign Atelier POS",
+  "description": "Offline Point of Sale, Inventory Management, and Thermal Receipt system for Gents Cloths and Finger Rings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
